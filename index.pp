@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * stuff and things!
+ */
+
+?>
